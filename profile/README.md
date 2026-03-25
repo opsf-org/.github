@@ -10,7 +10,7 @@ We are a genuinely independent, practitioner-led, not-for-profit body.
 
 ### What we do
 
-**Steward the Standard** — We govern the [Privacy Claims Token (PCT)](https://github.com/dpglabs/pct-spec) specification, an open standard for portable, cryptographically signed, machine-readable data obligation tokens.
+**Steward the Standard** — We govern the [Privacy Claims Token (PCT)](https://pctspec.opsf.org/) specification, an open standard for portable, cryptographically signed, machine-readable data obligation tokens.
 
 **Certify Practitioners** — We oversee the PCT practitioner certification programme, establishing the professional credential for those who implement the standard.
 
@@ -26,7 +26,7 @@ The PCT is a signed, portable token that attaches to data and travels with it th
 
 **v0.2 draft** adds 60+ jurisdictions including CCPA, LGPD, India DPDP Act, PIPL, POPIA, and frameworks across Asia Pacific, Middle East, Africa, and Latin America. Comment period closes 30 June 2026.
 
-📄 [View the specification](https://github.com/dpglabs/pct-spec)
+📄 [View the specification](https://pctspec.opsf.org/) · [GitHub](https://github.com/opsf-org/pct-spec)
 
 ---
 
