@@ -1,6 +1,6 @@
-# Open Privacy Standards Foundation
+# Open Proof Standards Foundation
 
-The **Open Privacy Standards Foundation (OPSF)** develops, stewards, and promotes open standards that enable privacy and data protection obligations to be expressed, enforced, and evidenced in machine-readable form.
+The **Open Proof Standards Foundation (OPSF)** develops, stewards, and promotes open standards that enable privacy and data protection obligations to be expressed, enforced, and evidenced in machine-readable form.
 
 We are a genuinely independent, practitioner-led, not-for-profit body.
 
@@ -10,7 +10,7 @@ We are a genuinely independent, practitioner-led, not-for-profit body.
 
 ### What we do
 
-**Steward the Standard** — We govern the [Privacy Claims Token (PCT)](https://pctspec.opsf.org/) specification, an open standard for portable, cryptographically signed, machine-readable data obligation tokens.
+**Steward the Standard** — We govern the [Proof Claims Token (PCT)](https://pctspec.opsf.org/) specification, an open standard for portable, cryptographically signed, machine-readable data obligation tokens.
 
 **Certify Practitioners** — We oversee the PCT practitioner certification programme, establishing the professional credential for those who implement the standard.
 
@@ -18,7 +18,7 @@ We are a genuinely independent, practitioner-led, not-for-profit body.
 
 ---
 
-### The Privacy Claims Token
+### The Proof Claims Token
 
 The PCT is a signed, portable token that attaches to data and travels with it through every system that handles it — carrying the legal and regulatory obligations that govern how that data may be processed, transferred, and used.
 
